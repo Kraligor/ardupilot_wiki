@@ -11,7 +11,7 @@ TauLabs Sparky2
 
 .. note::
 
-   Support for the TauLabs Sparky2 is available with Copter-3.6.0 (and higher)
+   Support for the TauLabs Sparky2 is available with Copter-3.6.0 (and higher). Firmware must be flashed in DFU-mode (short SBL pads) via external tool (e.g. Betaflight).
 
 Specifications
 ==============
@@ -40,7 +40,7 @@ Specifications
    -  6x PWM outputs (+4 more on LED port)
    -  1x RC input PWM/PPM
    -  2x analog to digital inputs for battery voltage and current monitoring
-   -  1x serial input for GPS
+   -  2x serial input for GPS, telemetry etc. (port numbering in Ardupilot might differ from the schematic's)
    -  1x I2C port for external compass
    -  1x CAN bus
    -  MMCX antenna connector for integrated radio
