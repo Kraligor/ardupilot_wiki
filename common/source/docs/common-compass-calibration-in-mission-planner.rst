@@ -22,7 +22,7 @@ Calibration first steps
 =======================
 
 - Under **Initial Setup \| Mandatory Hardware** select **Compass**.
-- Select your flight controler configuration to automatically enter the most important configuration information for your board:
+- Select your flight controller configuration to automatically enter the most important configuration information for your board:
 
    -  For any modern flight controller (Pixhawk, NAVIO2, etc) select the button **Pixhawk/PX4**.
    -  For APM 2.6, select **APM with External Compass**.
